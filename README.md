@@ -5,7 +5,7 @@
 [![Build](https://img.shields.io/badge/Language-Python2-blue.svg?maxAge=259200)]()
 [![Build](https://img.shields.io/badge/Contributor-Rahmat_Dev&Ilham_Dev-red.svg?style=flat)]()
 
-![Banner](https://raw.githubusercontent.com/Anak-IT/Spam-X/.readme/Banner.jpg)
+![Banner](https://raw.githubusercontent.com/Anak-IT/Spam-X/main/.readme/Banner.jpg)
 
 **Spam-X** Is A sms spammer tool, using python2, the spam-x is a great tool for prank your friends
 
@@ -30,7 +30,7 @@ How to install *Spam-X*
 ## Tools Overview
 | Front View |
 | ------------  |
-|![Index](https://raw.githubusercontent.com/Anak-IT/Spam-X/.readme/Overview.jpg)|
+|![Index](https://raw.githubusercontent.com/Anak-IT/Spam-X/main/.readme/Overview.jpg)|
 
 ### About issues
 - Read the [README.md](https://github.com/Anak-IT/Spam-X/blob/master/README.md) before making an issue.
